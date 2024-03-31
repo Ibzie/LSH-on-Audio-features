@@ -1,5 +1,6 @@
-librosa~=0.9.2
 numpy~=1.23.5
+librosa~=0.9.2
 pandas~=1.5.3
-PyMinHash~=0.1.5
-datasketch~=1.5.8
+Flask~=2.2.3
+Werkzeug~=2.2.3
+matplotlib~=3.7.0
