@@ -5,7 +5,8 @@ In question 2, it is directly used to lower the complexity as well as redundancy
 files:
 
 Assignment Report
-Q1.py
+
+Q1.py (contains the LSH implementation)
 
 Q2.py (flask application)
 html pages in templates for the Flask Application
